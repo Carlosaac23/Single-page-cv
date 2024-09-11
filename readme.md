@@ -22,3 +22,4 @@ To view this project, simply clone the repository and open `index.html` in your 
 ### Clone the repository:
 
 [View Live Project](https://single-page-cv.vercel.app/)
+[Project URL](https://roadmap.sh/projects/single-page-cv)
