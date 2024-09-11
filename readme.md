@@ -21,6 +21,4 @@ To view this project, simply clone the repository and open `index.html` in your 
 
 ### Clone the repository:
 
-```bash
-git clone https://github.com/Carlosaac23/Single-page-cv
-```
+[View Live Project](https://single-page-cv.vercel.app/)
