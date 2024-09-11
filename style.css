@@ -1,0 +1,66 @@
+body {
+  font-family: Nunito, sans-serif;
+  color: #0d0d0d;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cv {
+  border: 3px solid #0d0d0d;
+  border-radius: 2px;
+  padding: 20px 20px 20px 50px;
+  width: 600px;
+  height: 600px;
+}
+
+hr {
+  background-color: black;
+  width: 80%;
+  margin-top: 40px;
+  height: 3px;
+  text-align: left;
+  margin-left: 0;
+  border-radius: 50px;
+}
+
+p {
+  margin: 0;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.school {
+  color: rgb(31, 168, 214);
+  margin-bottom: 0;
+}
+
+h3 {
+  font-size: 15px;
+  color: rgb(105, 190, 105);
+  margin-bottom: 7px;
+}
+
+.linkedin-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.linkedin-link img {
+  margin-right: 8px;
+}
+
+.github-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: inherit;
+}
+
+.github-link img {
+  margin-right: 8px;
+}
